@@ -15,18 +15,18 @@ namespace Регулярные_выражения
         public rglr()
         {
             string s;
-            Console.WriteLine("Введите почтовый индекс");
-            s = Console.ReadLine();
-            Console.WriteLine(Index(s));
-            Console.WriteLine("Введите серию и номер паспорта");
-            s = Console.ReadLine();
-            Console.WriteLine(Passport(s));
-            Console.WriteLine("Введите номер телефона");
-            s = Console.ReadLine();
-            Console.WriteLine(Phone(s));
-            Console.WriteLine("Введите номер группы");
-            s = Console.ReadLine();
-            Console.WriteLine(Group(s));
+            //Console.WriteLine("Введите почтовый индекс");
+            //s = Console.ReadLine();
+            //Console.WriteLine(Index(s));
+            //Console.WriteLine("Введите серию и номер паспорта");
+            //s = Console.ReadLine();
+            //Console.WriteLine(Passport(s));
+            //Console.WriteLine("Введите номер телефона");
+            //s = Console.ReadLine();
+            //Console.WriteLine(Phone(s));
+            //Console.WriteLine("Введите номер группы");
+            //s = Console.ReadLine();
+            //Console.WriteLine(Group(s));
             Console.WriteLine("Введите пароль");
             s = Console.ReadLine();
             Console.WriteLine(Password(s));
